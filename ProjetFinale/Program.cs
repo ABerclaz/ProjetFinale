@@ -8,6 +8,7 @@ namespace ProjetFinale
 {
     static class Program
     {
+        ///STEPH
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
