@@ -1,0 +1,9 @@
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\bin\Debug\ProjetFinale.exe.config
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\bin\Debug\ProjetFinale.exe
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\bin\Debug\ProjetFinale.pdb
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\obj\Debug\ProjetFinale.csprojResolveAssemblyReference.cache
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\obj\Debug\ProjetFinale.Properties.Resources.resources
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\obj\Debug\ProjetFinale.csproj.GenerateResource.Cache
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\obj\Debug\ProjetFinale.csproj.CoreCompileInputs.cache
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\obj\Debug\ProjetFinale.exe
+C:\Users\Axel\source\repos\ProjetFinale\ProjetFinale\obj\Debug\ProjetFinale.pdb
